@@ -1,0 +1,10 @@
+nav {
+	text-align: center;
+}
+
+img {	
+  border-radius: 8px;
+  width: 300px;
+  transform: rotate(90deg);
+}
+
